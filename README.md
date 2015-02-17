@@ -34,12 +34,12 @@ The `CodeBook.md` explains the final output in more detailed.
       You will get the following output:
       
           Prompt within UCI HAR Dataset folder> Rscript run_analysis.R 
-        [1] "Performing Task 1..."
-        [1] "Performing Task 4..."
-        [1] "Performing Task 3..."
-        [1] "Performing Task 2..."
-        [1] "Performing Task 5..."
-        [1] "Generating 'tidyset.txt' file"
+            [1] "Performing Task 1..."
+            [1] "Performing Task 4..."
+            [1] "Performing Task 3..."
+            [1] "Performing Task 2..."
+            [1] "Performing Task 5..."
+            [1] "Generating 'tidyset.txt' file"
            Prompt within UCI HAR Dataset folder>
 
 
