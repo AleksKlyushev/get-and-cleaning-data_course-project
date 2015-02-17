@@ -3,7 +3,7 @@ This is the Codebook for the get-and-cleaning-data_course-project
 The data was tidy'ed up version of the data from the UCI HAR Dataset
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These tim
 Variable Name                      |       Format|Variable Label                                         | Valid Range
-_________________________________  |      _____  |_______________________________________________________| ___________
+---------------------------------  |      -----  |-------------------------------------------------------| ------------------------
 Subject                            |       Int   |30 Subjects under observation                          | [1-30]       
 Activity                           |       Factor|Various Activities Performed by the Subjects           | WALKING,WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 tBodyAcc-mean()-X                  |       num   |Mean body linear acceleration and angular velocity in X| [-1,1]
