@@ -5,11 +5,11 @@
 This repo contains my course project to [Coursera](https://www.coursera.org) ["Getting And Cleaning Data"](https://class.coursera.org/getdata-002) course that is part of [Data Science](https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage) specialization.
 
 There is just one script called `run_analysis.R`. It tries to accomplish all the 5 tasks mentioned in the instructions. 
-    * Merges the training and the test sets to create one data set.
-    * Extracts only the measurements on the mean and standard deviation for each measurement. 
-    * Uses descriptive activity names to name the activities in the data set
-    * Appropriately labels the data set with descriptive variable names. 
-    * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+1. Merges the training and the test sets to create one data set.
+2. Extracts only the measurements on the mean and standard deviation for each measurement. 
+3. Uses descriptive activity names to name the activities in the data set
+4. Appropriately labels the data set with descriptive variable names. 
+5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
     
 The code "Prints" out the task numbers as they are being processed. This visual feedback was found necessary to ensure that the processing had not stalled. 
 
