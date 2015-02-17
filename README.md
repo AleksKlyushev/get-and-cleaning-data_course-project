@@ -29,8 +29,7 @@ The `CodeBook.md` explains the final output in more detailed.
         $ Rscript run_analysis.R
        
       - If the progream errors out, please make sure that the "UCI HAR Dataset" data is in the same folder. This data can be downloaded from: 
-      https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip . Once you download, please change  
-      your directory into this folder before running the script.
+      https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip . Once you download, please change your directory into this folder before running the script.
       You will get the following output:
       
           Prompt within UCI HAR Dataset folder> Rscript run_analysis.R 
