@@ -14,7 +14,7 @@ There is just one script called `run_analysis.R`. It tries to accomplish all the
 The code "Prints" out the task numbers as they are being processed. This visual feedback was found necessary to ensure that the processing had not stalled. 
 
 
-The `CodeBook.md` explains it more detailed.
+The `CodeBook.md` explains the final output in more detailed.
 
 
 ## Run from command line
