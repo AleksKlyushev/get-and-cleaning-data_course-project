@@ -28,7 +28,19 @@ The `CodeBook.md` explains the final output in more detailed.
 
        $ Rscript run_analysis.R
        
-          - If the progream errors out, please make sure that the "UCI HAR Dataset" data is in the same folder
+          - If the progream errors out, please make sure that the "UCI HAR Dataset" data is in the same folder. This data can be downloaded from: 
+          https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip . Once you download, please change  
+          your directory into this folder before running the script.
+          You will get the following output:
+          Prompt within UCI HAR Dataset folder> Rscript run_analysis.R 
+        [1] "Performing Task 1..."
+        [1] "Performing Task 4..."
+        [1] "Performing Task 3..."
+        [1] "Performing Task 2..."
+        [1] "Performing Task 5..."
+        [1] "Generating 'tidyset.txt' file"
+           Prompt within UCI HAR Dataset folder>
+
 
 3. Look for the final dataset named "tidyset.txt" file in the same directory and view the file (the command shows first three rows)
 
