@@ -2,6 +2,8 @@ This is the Codebook for the get-and-cleaning-data_course-project
 
 The data was tidy'ed up version of the data from the UCI HAR Dataset
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These tim
+
+
 Variable Name                      |       Format|Variable Label                                         | Valid Range
 ---------------------------------  |      -----  |-------------------------------------------------------| ------------------------
 Subject                            |       Int   |30 Subjects under observation                          | [1-30]       
