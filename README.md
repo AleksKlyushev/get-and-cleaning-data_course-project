@@ -32,6 +32,7 @@ The `CodeBook.md` explains the final output in more detailed.
       https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip . Once you download, please change  
       your directory into this folder before running the script.
       You will get the following output:
+      
           Prompt within UCI HAR Dataset folder> Rscript run_analysis.R 
         [1] "Performing Task 1..."
         [1] "Performing Task 4..."
